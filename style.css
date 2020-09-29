@@ -235,7 +235,7 @@
 }
 
 .fs .content .left span {
-    font-size: 2.5em;
+    font-size: 1.75em;
     font-weight: 400;
     padding: 50px 0px;
     text-transform: uppercase;
@@ -318,4 +318,6 @@
 .fs .small {
     width: 400px;
     margin-bottom: 50px;
+    -webkit-box-shadow: -5px 5px 10px rgba(17,78,137,0.4);
+            box-shadow: -5px 5px 10px rgba(17,78,137,0.4);
 }
